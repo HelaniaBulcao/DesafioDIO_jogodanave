@@ -1,4 +1,4 @@
-#DesafioDIO - Jogo da Nave
+# DesafioDIO - Jogo da Nave
 Esse repositório faz parte do desafio do bootcamp da Órbi Web Games Developer juntamente com a DIO, no qual foi criado um jogo da nave chamado "Resgate".
 
 ### Os requisitos são:
